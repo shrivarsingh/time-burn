@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TimeManagerApp</string>
+    <string name="infoText">Simple Time Calculation App. Click on Start Time to set the time to start work. Move the Slider next to the hours to work value to set the hours to work. Click on the clock button to calculate the times you need to work and take a break. The cycle is based on 90 min of work and 15 min of break. Note: Break times are not counted as hours to work.</string>
+</resources>
